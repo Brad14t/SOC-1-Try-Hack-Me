@@ -1,4 +1,4 @@
-# 🚀 Security Operations Center (SOC) Tier 1 Analyst Project
+# 🚀 Security Operations Center (SOC) Analyst Project
 
 This repository showcases my hands on experience and foundational expertise in security operations and incident response, developed through the Try Hack Me SOC Level 1 learning path and targeted phishing simulations. By leveraging industry standard tools and methodologies, this project demonstrates a practical application of core security principles to monitor, detect, and respond to real world cyber threats. 
 
